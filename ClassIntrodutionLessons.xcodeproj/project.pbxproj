@@ -80,7 +80,6 @@
 				3B95D2D8286C8CB500A1F087 /* Introdution.md */,
 				3B95D2E8286D0D4000A1F087 /* ClassInrodutionLessons */,
 				3B95D2C9286C7BA600A1F087 /* FirstLesson */,
-				3B95D300286D844300A1F087 /* SecondLesson */,
 				3B95D2C8286C7BA600A1F087 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -143,37 +142,6 @@
 				3B95D2F7286D0D4200A1F087 /* Info.plist */,
 			);
 			path = ClassInrodutionLessons;
-			sourceTree = "<group>";
-		};
-		3B95D300286D844300A1F087 /* SecondLesson */ = {
-			isa = PBXGroup;
-			children = (
-				3B95D30A286D845800A1F087 /* Sources */,
-				3B95D309286D845200A1F087 /* Tests */,
-				3B95D308286D844D00A1F087 /* Task */,
-			);
-			path = SecondLesson;
-			sourceTree = "<group>";
-		};
-		3B95D308286D844D00A1F087 /* Task */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Task;
-			sourceTree = "<group>";
-		};
-		3B95D309286D845200A1F087 /* Tests */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Tests;
-			sourceTree = "<group>";
-		};
-		3B95D30A286D845800A1F087 /* Sources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
